@@ -2,6 +2,13 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KDr_Xrqe7BB9O3q2f6WHxI0b4L1jU4hB?usp=sharing)
 
+## ▶️ Tool direkt ausführen (kein Python nötig)
+
+1. Auf den **"Open in Colab"** Badge oben klicken
+2. Oben im Menü: **Runtime → Run all**
+3. Ticker eingeben wenn gefragt (z.B. `SIE.DE`, `BMW.DE`, `RAA.DE`)
+4. Excel-Report wird automatisch heruntergeladen
+
 Python-Tool zur automatisierten Quality of Earnings (QoE) Analyse — 
 Kernbestandteil jeder Financial Due Diligence.
 ## Was das Tool macht
