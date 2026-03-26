@@ -8,7 +8,7 @@ Kernbestandteil jeder Financial Due Diligence.
 1. **Ticker eingeben** — beliebiges börsennotiertes Unternehmen (z.B. SIE.DE, BMW.DE)
 2. **QoE-Kennzahlen** — berechnet Gross Margin, EBIT Margin und Cash Conversion über 4 Jahre
 3. **QoE Score** — automatisierter 0-100 Score zur Bewertung der Earnings Quality
-4. **Excel-Export** — professionell formatierter DD-ready Report
+4. **Excel-Export** —  formatierter DD-ready Report
 
 ## Beispiel-Output: Siemens AG
 ```
