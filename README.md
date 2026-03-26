@@ -1,8 +1,9 @@
 # 📊 Quality of Earnings Analyzer
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KDr_Xrqe7BB9O3q2f6WHxI0b4L1jU4hB?usp=sharing)
+
 Python-Tool zur automatisierten Quality of Earnings (QoE) Analyse — 
 Kernbestandteil jeder Financial Due Diligence.
-
 ## Was das Tool macht
 
 1. **Ticker eingeben** — beliebiges börsennotiertes Unternehmen (z.B. SIE.DE, BMW.DE)
